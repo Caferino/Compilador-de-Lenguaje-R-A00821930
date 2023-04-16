@@ -1,11 +1,9 @@
 # coding=utf-8
 """
-    Tarea-3.2
+    Proyecto Final
     Autor: Óscar Antonio Hinojosa Salum A00821930
-    Marzo 18 2023
-    Programa Python "Little Duck 2020" como ejemplo de
-    un analizador de léxico (LittleDuckLexer.py) y 
-    un analizador de sintáxis (LittleDuckParser.py).
+    Abril 15 2023
+    Compilador para lenguaje al estilo R.
 """
 
 import ply.lex as lex

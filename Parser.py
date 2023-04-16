@@ -1,16 +1,9 @@
 # coding=utf-8
 """
-    Tarea-3.2
+    Proyecto Final
     Autor: Óscar Antonio Hinojosa Salum A00821930
-    Marzo 18 2023
-    Programa Python "Little Duck 2020" como ejemplo de
-    un analizador de léxico (LittleDuckLexer.py) y 
-    un analizador de sintáxis (LittleDuckParser.py).
-
-    Nota: Comparado con otros ejemplos, vi que escribí mis terminales y no-terminales
-    al revés (de minúsculas a mayúsculas y vice versa)...
-    Igualmente, descubrí que será mejor hacerlo en inglés también y
-    no darle nombres de una letra a los no-terminales como "I'" "V'" "V"...
+    Abril 15 2023
+    Compilador para lenguaje al estilo R.
 """
 
 # Gramática
