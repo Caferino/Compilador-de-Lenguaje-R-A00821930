@@ -1,4 +1,7 @@
-# Compilador de Lenguaje R
-Compilador de un lenguaje al estilo R y escrito en Python para la clase de compiladores en el ITESM.
+**Notas:**
+
+
+DD.
+
 
 Óscar Antonio Hinojosa Salum A00821930
